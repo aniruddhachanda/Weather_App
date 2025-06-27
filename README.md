@@ -1,0 +1,1 @@
+Thsi is a weather app which makes using react.js and rapid api. This applications help to track current weather of a particular location. Also it helps to check any other locations. Also it helps to check hourly weather and daily weather forcast.
